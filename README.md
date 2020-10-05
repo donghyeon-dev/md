@@ -120,7 +120,7 @@ scoped 속성을 부여하면 해당 컴포넌트에만 적용이 되는데, 최
 아이디명은 "_" (언더바),
 클래스명은 " - " (하이폰)을 사용하여 구분.
 
-네이밍은 BEM 방식으로 진행하되, 최대한 간략히 공통으로 묶어 사용할 수 있는 방향으로 진행하면 좋을듯
+네이밍은 BEM 방식으로 진행하되, 최대한 간략히 공통으로 묶어 사용할 수 있는 방향으로 진행하면 좋을듯함
 
 >B - block ( nav, menu, header, search-form, main etc..)
 E - elements (input,  first,  logo, inner, frame, title, text, item etc..)
