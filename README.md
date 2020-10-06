@@ -28,9 +28,8 @@
 
 
 필요한 컴포넌트마다 로컬단위로 적용.
-개별css 적용시 style 태그 내에 scoped 속성을 추가해 현재 컴포넌트에만 특정 스타일을 적용한다.
+개별css 적용시 style 태그 내에 **scoped** 속성을 추가해 현재 컴포넌트에만 특정 스타일을 적용한다.
 
--scoped
 
 > **import 방법**
 
@@ -126,7 +125,9 @@ scoped 속성을 부여하면 해당 컴포넌트에만 적용이 되는데, 최
 E - elements (input,  first,  logo, inner, frame, title, text, item etc..)
 M - modifiers ( blue, red, small, big, disabled etc..)
 
-================================================
+---
+
+
 ## 진행 계획
 ================================================
 ![업무 프로세스](https://user-images.githubusercontent.com/72370405/95160935-bd983300-07dc-11eb-8a30-3b1e32d80f19.png)
