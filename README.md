@@ -33,19 +33,19 @@
 > **import 방법**
 
 >< script >
-	export default {
-		name: '',
-		data: {}
-		// …
-	}
-< /script >
-< style **scoped** lang="scss">
-	label {
-		display: inline-block;
-		align-items: center;
-		cursor: pointer;
-		}
-</style >
+>	export default {
+>		name: '',
+>		data: {}
+>		// …
+>	}
+>< /script >
+>< style **scoped** lang="scss">
+>	label {
+>		display: inline-block;
+>		align-items: center;
+>		cursor: pointer;
+>		}
+></style >
 
 ** 태그안에 **@import** 를 해야함
 
@@ -60,14 +60,14 @@ main.js와 같은 엔트리 포인트에서 로드하는 루트 컴포넌트에�
 > **import 방법**
 
 >< script >
-	export default {
-		name: '',
-		//..
-	}
-< /script >
-< style lang="scss" >
-	**@import './경로';** 
-< /style >
+>	export default {
+>		name: '',
+>		//..
+>	}
+>< /script >
+>< style lang="scss" >
+>	**@import './경로';** 
+>< /style >
 
 ** 태그안에 **@import** 를 해야함
 
@@ -85,26 +85,26 @@ scoped 속성을 부여하면 해당 컴포넌트에만 적용이 되는데, 최
 
 >**ex)**
 >< style lang="scss" scoped>
-**::v-deep** .aa {
-  .a {
-    top: 20px;
-  }
-}
-< /style>
-
+>**::v-deep** .aa {
+>  .a {
+>    top: 20px;
+>  }
+>}
+>< /style>
+>
 >**or**
 >< style scoped >
-.aa **>>>** .a {
-    top: 20px;
-}
-< /style >
+>.aa **>>>** .a {
+>    top: 20px;
+>}
+>< /style >
 
 >**or**
 >< style lang="scss" scoped>
-**/deep/** .a {
-  background: red;
-}
-< /style >
+>**/deep/** .a {
+>  background: red;
+>}
+>< /style >
 
 
 
