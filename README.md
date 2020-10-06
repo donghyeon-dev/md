@@ -3,7 +3,7 @@
 
 >**목차**
 
-[toc]
+[toc][toc]
 
 ----------
 
@@ -123,5 +123,5 @@ M - modifiers ( blue, red, small, big, disabled etc..)
 
 ## 3. 진행 계획
 
-![업무 프로세스](https://user-images.githubusercontent.com/72370405/95160935-bd983300-07dc-11eb-8a30-3b1e32d80f19.png)
+![업무 프로세스](https://user-images.githubusercontent.com/72370405/95163308-8af13900-07e2-11eb-922a-a7301d3bbfce.jpg)
 
