@@ -125,3 +125,9 @@ scoped 속성을 부여하면 해당 컴포넌트에만 적용이 되는데, 최
 >B - block ( nav, menu, header, search-form, main etc..)
 E - elements (input,  first,  logo, inner, frame, title, text, item etc..)
 M - modifiers ( blue, red, small, big, disabled etc..)
+
+================================================
+## 진행 계획
+================================================
+![업무 프로세스](https://user-images.githubusercontent.com/72370405/95160935-bd983300-07dc-11eb-8a30-3b1e32d80f19.png)
+
